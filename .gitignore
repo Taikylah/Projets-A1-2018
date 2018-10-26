@@ -56,3 +56,5 @@ dkms.conf
 *.opendb
 *.sln
 *.vcxproj*
+*.tlog
+*.obj*
